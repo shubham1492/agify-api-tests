@@ -1,0 +1,25 @@
+{
+  "name": "agify-api-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@cucumber/cucumber": "^11.1.0",
+    "axios": "^1.7.8",
+    "chai": "^5.1.2",
+    "cucumber": "^6.0.7"
+  },
+  "devDependencies": {
+    "@types/chai": "^5.0.1",
+    "@types/cucumber": "^6.0.1",
+    "@types/node": "^22.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
