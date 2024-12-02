@@ -1,14 +1,6 @@
 Agify API Tests
 This project tests the Agify.io API using Cucumber, TypeScript, and Axios. It uses Behavior-Driven Development (BDD) to ensure the API behaves as expected, based on predefined scenarios.
 
-Table of Contents
-Project Overview
-Setup Instructions
-Folder Structure
-Feature Scenarios
-Running Tests
-Generating Reports
-
 Project Overview
 The goal of this project is to validate the behavior of the Agify API using the following scenarios:
 
