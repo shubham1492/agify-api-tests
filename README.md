@@ -25,8 +25,8 @@ Setup Instructions
 Prerequisites
 Ensure the following are installed:
 
-Node.js (22)
-npm (10)
+Node.js (v22.11.0)
+npm (10.9.0)
 
 Git
 Steps
